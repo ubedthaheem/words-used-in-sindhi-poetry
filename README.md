@@ -10,7 +10,7 @@ This repository contains a dataset of Sindhi poetry words sourced from SindhSala
 
 ## Data Source
 
-The dataset was collected from [SindhSalamat Kitab Ghar's Poetry section](URL_HERE).
+The dataset was collected from [SindhSalamat Kitab Ghar's Poetry section]([URL_HERE](https://books.sindhsalamat.com/category/4)).
 
 ## Usage
 
